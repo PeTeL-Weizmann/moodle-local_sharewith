@@ -28,3 +28,4 @@ $plugin->component = 'local_sharewith';
 $plugin->release = 'INITIAL';
 $plugin->version = 2019042902;
 $plugin->requires = 2016052300;
+
